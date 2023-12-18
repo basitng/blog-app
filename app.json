@@ -1,5 +1,8 @@
 {
   "expo": {
+    "extra": {
+      "id": "b11a2df5139f480887b41b39542d3e8c"
+    },
     "name": "expo-app",
     "slug": "expo-app",
     "version": "1.0.0",
@@ -11,9 +14,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
